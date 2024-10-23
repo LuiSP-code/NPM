@@ -1,0 +1,39 @@
+body{
+    margin: 0 auto;
+    text-align: center;
+    font-family: monospace;
+}
+.estilo{
+    list-style-type: none;
+    text-transform: uppercase;
+    padding: 3rem;
+}
+.centrado{
+    text-align: center;
+    background-color: aquamarine;
+}
+.footer{
+    background-color: bisque;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.parrafo{
+    text-transform: capitalize;
+    color: chocolate;
+}
+
+fieldset{
+    border: 2rem solid #f27603;
+}
+.form{
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: 900;
+    list-style: georgian;
+}
+.button{
+    background-color: rgba(0, 255, 145, 0.751);
+    text-transform: uppercase;
+    border-radius: 3rem;
+    cursor: grab;
+}
